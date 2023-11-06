@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ToDo</string>
+    <string name="titulo">Titulo</string>
+    <string name="createButton">Crear titulo</string>
+    <string name="cancelButton">Cancelar</string>
+    <string name="hintLabelTitulo">Introduzca un título</string>
+    <string name="descripcion_label">Introduzca una descripción</string>
+    <string name="share_text">La tarea con título %1s y descripción %2s esta creada %3s</string>
+    <string name="createButtonTask">Crear nueva tarea</string>
+    <string name="EditText">Editar</string>
+    <string name="Completed">Completada</string>
+    <string name="Update">Actualizar</string>
+    <string name="Checkbox">Completada</string>
+</resources>
